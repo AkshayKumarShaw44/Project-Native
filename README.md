@@ -114,9 +114,9 @@
 
 ## 📱 App Screenshots
 
-| Auth Screen | List Screen | Insights Screen |
-| :---: | :---: | :---: |
-| <img src="./assets/images/auth.png" alt="Auth Screen" width="260" /> | <img src="./assets/images/screenshot-for-readme.png" alt="List Screen" width="260" /> | <img src="./assets/images/hero.png" alt="Insights Screen" width="260" /> |
+| Auth Screen | Insights Screen |
+| :---: | :---: |
+| <img src="./assets/images/auth.png" alt="Auth Screen" width="260" /> | <img src="./assets/images/hero.png" alt="Insights Screen" width="260" /> |
 
 ---
 
