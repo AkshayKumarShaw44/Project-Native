@@ -112,14 +112,6 @@
 
 ---
 
-## 📱 App Screenshots
-
-| Auth Screen | Insights Screen |
-| :---: | :---: |
-| <img src="./assets/images/auth.png" alt="Auth Screen" width="260" /> | <img src="./assets/images/hero.png" alt="Insights Screen" width="260" /> |
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
